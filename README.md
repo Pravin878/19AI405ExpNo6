@@ -1,5 +1,5 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Pravin kumar G N</h3>
+<h3>Name: Pravin kumar G </h3>
 <h3>Register Number/Staff Id: 212222230109</h3>
 <H3>Aim:</H3>
 <p>
